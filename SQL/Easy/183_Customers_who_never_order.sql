@@ -1,6 +1,6 @@
 -- Topic: SQL JOIN
 -- Difficulty: Easy
--- LeetCode 177: Customers Who Never Order
+-- LeetCode 183: Customers Who Never Order
 -- https://leetcode.com/problems/customers-who-never-order/
 
 -- Task:
